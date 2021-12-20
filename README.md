@@ -22,7 +22,7 @@
 
 
 ## Manuscript
-We can define one that most authors feel comfortable with (MS Word, Overleaf, etc.).
+We can use an editing tool that most authors feel comfortable with (MS Word, Overleaf, etc.).
 - [MS Word in OneDrive](https://unitednations-my.sharepoint.com/:w:/g/personal/erick_gonzalesrocha_un_org/ERDTiW6b8G1Mmlam4GZulN8BXYvlaneRNHhnYwPtRPF1hg) (constantly updated)
 - [Overleaf link](https://www.overleaf.com/project/618b300cc2936a670afa237b)
 
