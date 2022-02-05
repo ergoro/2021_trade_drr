@@ -3,6 +3,11 @@
 - Pathways towards risk-informed sustainable development and trade: Integrating disaster risk reduction and prevention into global trade and trade policy
 
 
+## One pager
+
+- [One pager in Dropbox (.docx)](https://www.dropbox.com/s/kopu8qmbm4y9mdc/trade_drr_one_pager_05022022.docx?dl=0)
+
+
 ## Key ideas for the paper
 
 - Why trade and disaster risk management (DRM)
